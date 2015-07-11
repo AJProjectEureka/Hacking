@@ -1,5 +1,5 @@
 # Hacking
-Hacking also known as pentration testing is the act of entering a computer system unauthorised by finding flwas in the system 
+Hacking also known as pentration testing is the act of entering a computer system unauthorised by finding flwas in the system. 
 Please refer to The Treasure Trove repo below and read the guidelines before accessing this database
 
 <H1> Introduction: </H1>
